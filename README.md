@@ -7,5 +7,5 @@
 
 * [This Kernel](https://www.kaggle.com/hamzael1/careervillage-extensive-eda-with-plotly) attempts to provide an extensive **Exploratory Data Analysis** of the data provided by CareerVillage to Kagglers for [this competition](https://www.kaggle.com/c/data-science-for-good-careervillage). Most visualizations are done using Plotly library.
 
-WIP: Recommendation Engine
+[Recommendation Engine here](https://www.kaggle.com/hamzael1/epsilon-greedy-latent-recommender) uses Epsilon-Greedy Algorithm to balance between Exploration and Exploitation to recommend questions to professionals.
 
